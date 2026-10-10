@@ -26,7 +26,7 @@ const CONFIG = {
   frase: "Damos gracias por estos primeros 365 días de amor infinito y a Dios por bendecir su camino. Queremos que seas parte del bautismo y primer añito de Clarita.",
 
   // --- FORMULARIO ---
-  textoForm: "Tu presencia es lo más importante",
+  textoForm: "Tu presencia es lo más importante, confirma asistencia.",
   textoFormSub: "Recordá completar un formulario por persona. <br> Hacelo antes del 27 de noviembre. <br> Consultas: mamá 2622 57-9750 · papá 261 697-9983",
   maxInvitados: 5,
   scriptFormUrl: "https://script.google.com/macros/s/AKfycbwrsJW-nlGvA81ApkVNlUo6FOJhY3zpMJAsDRJR3qWJTiiS74baWzWqB3YAWF-w149f/exec",
